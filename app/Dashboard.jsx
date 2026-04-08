@@ -289,7 +289,7 @@ Format with clear sections. Be direct and analytical.`;
           }}>🤖</div>
           <div>
             <div style={{ fontSize: 15, fontWeight: 700, color: "#e0e0e0" }}>AI Market Insight</div>
-            <div style={{ fontSize: 11, color: "#6a6a7a" }}>Powered by Claude API</div>
+            <div style={{ fontSize: 11, color: "#6a6a7a" }}>Powered by Google Gemini API (Free)</div>
           </div>
         </div>
         <button
