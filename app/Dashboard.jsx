@@ -649,7 +649,7 @@ export default function DATcoDashboard() {
           paddingBottom: 32,
         }}>
           <p style={{ fontSize: 11, color: "#3a3a4a", margin: 0 }}>
-            DAT.co Indicator Dashboard — Built for NTU FinTech Course · Data: SEC filings, Strategy.com, Market APIs · AI: Claude API
+            DAT.co Indicator Dashboard — Built for NTU FinTech Course · Data: SEC filings, Strategy.com, Market APIs · AI: Google Gemini API
           </p>
         </div>
       </div>
